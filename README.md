@@ -1,5 +1,8 @@
 # PDK RuboCop
 
+[![Code Owners](https://img.shields.io/badge/owners-DevX--team-blue)](https://github.com/puppetlabs/pdk/blob/main/CODEOWNERS)
+![ci](https://github.com/puppetlabs/pdk-rubocop/actions/workflows/ci.yml/badge.svg)
+
 PDK RuboCop is a Gem that provides sane defaults to use when developing Puppet Content.
 
 This gem was inspired by [voxpupuli-rubocop](https://github.com/voxpupuli/voxpupuli-rubocop)
